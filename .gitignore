@@ -1,0 +1,10 @@
+# directories to ignore
+cache/
+saves/
+
+# files to ignore
+Thumbs.db
+firstrun
+*.rpa
+*.rpyc
+*.rpy.bak
